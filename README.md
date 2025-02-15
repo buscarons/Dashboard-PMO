@@ -2,6 +2,7 @@
 
 ## Introducción y Objetivo General
 ![Dashboard PMO](imagenes/dashboard_pmo.png)
+
 Este proyecto surge ante la necesidad de contar con una herramienta que centralice y visualice los indicadores clave en la gestión de proyectos de TI, tales como el presupuesto, el gasto actual y la administración de licencias. El dashboard PMO está diseñado para facilitar la toma de decisiones y mejorar la estandarización de proyectos. Además, cumple con los requerimientos de la vacante a la que aspiro, al demostrar habilidades en SQL y el manejo de herramientas como Google Sheets.
 
 ## Objetivo Principal
