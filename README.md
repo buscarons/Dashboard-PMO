@@ -306,3 +306,6 @@ Para la visualización y el análisis de los datos, se han creado **cuatro hojas
 
 - **Script de SQL:**  
   [Enlace al Script SQL en GitHub Gist](https://gist.github.com/buscarons/da9fc8a30b09e4fd25493bd746210ddc)
+  
+- **Archivo de Google Docs (Documentación Dashboard PMO):**  
+  [Enlace a Google Docs](https://docs.google.com/document/d/1ndklbfrNiPZoXlNv5IAfItdPxfZDjCl0jAquoE5tm50/edit?usp=sharing)
