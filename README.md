@@ -1,7 +1,7 @@
 # Documentación del Proyecto de Dashboard PMO
 
 ## Introducción y Objetivo General
-![Dashboard PMO](imagenes/dashboard_pmo.png)
+![Dashboard PMO](dashboard_pmo.png)
 
 Este proyecto surge ante la necesidad de contar con una herramienta que centralice y visualice los indicadores clave en la gestión de proyectos de TI, tales como el presupuesto, el gasto actual y la administración de licencias. El dashboard PMO está diseñado para facilitar la toma de decisiones y mejorar la estandarización de proyectos. Además, cumple con los requerimientos de la vacante a la que aspiro, al demostrar habilidades en SQL y el manejo de herramientas como Google Sheets.
 
@@ -122,7 +122,7 @@ El objetivo del dashboard es consolidar y presentar de manera clara la informaci
 
 - La tabla **gastos** tiene una relación de uno a muchos con **proyectos** (un proyecto puede tener múltiples gastos).
 - La tabla **licencias** se gestiona de forma independiente, sin relaciones directas con las otras.
-![Diagrama de Tablas](images/diagrama_tablas.png)
+![Diagrama de Tablas](diagrama_tablas.png)
 
 ### Tipo ENUM para Proyectos
 
@@ -237,10 +237,10 @@ Para la visualización y el análisis de los datos, se han creado **cuatro hojas
   Las licencias con menos de 30 días para vencer se destacan mediante celdas con matices de rojo, facilitando el seguimiento y la priorización de renovaciones.
 
 > **Ejemplo de Gráfica Circular:**  
-![Grafica Circular](images/grafica_circular.png)
+![Grafica Circular](grafica_circular.png)
 
 > **Ejemplo de Tabla con Formato Condicional:**  
-![Tabla con Formato Condicional](images/tabla_formato.png)
+![Tabla con Formato Condicional](tabla_formato.png)
 
 ## Flujo de Datos
 
