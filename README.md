@@ -24,7 +24,7 @@ El objetivo del dashboard es consolidar y presentar de manera clara la informaci
 ### Incluido
 
 - **Importación de Datos:**  
-  Carga manual desde la base de datos online PostgreSQL (Supabase) a Google Sheets mediante exportación e importación de archivos CSV.
+  Carga manual desde la base de datos online PostgreSQL ([Supabase](https://supabase.com/) a Google Sheets mediante exportación e importación de archivos CSV.
 
 - **Indicadores Calculados:**  
   - Porcentaje de presupuesto utilizado.  
@@ -47,7 +47,7 @@ El objetivo del dashboard es consolidar y presentar de manera clara la informaci
 
 - **Base de Datos:**  
   **Supabase (PostgreSQL)**  
-  Se eligió Supabase por su capacidad de integración futura con Google Sheets para la actualización automática de datos. Inicialmente se consideró ElephantSQL, pero fue descartado debido a su inminente discontinuación.
+  Se eligió Supabase por su capacidad de integración futura con Google Sheets para la actualización automática de datos. Inicialmente se consideró [ElephantSQL](https://www.elephantsql.com/), pero fue descartado debido a su inminente discontinuación.
 
 - **Hoja de Cálculo:**  
   **Google Sheets**  
